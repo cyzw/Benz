@@ -274,6 +274,9 @@ nav .navbars li>a.navColor{
  .sildePic>img{
 	width: 100%;
 }
+.pcImg{
+	width:100%;
+}
 .bannerTitle{
 	position: absolute;
 	width: 100%;
